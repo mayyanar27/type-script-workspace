@@ -1,0 +1,19 @@
+{
+  "name": "type-script-workspace",
+  "version": "1.0.0",
+  "description": "type-script-workspace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayyanar27/type-script-workspace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayyanar27/type-script-workspace/issues"
+  },
+  "homepage": "https://github.com/mayyanar27/type-script-workspace#readme"
+}
